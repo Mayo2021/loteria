@@ -1,0 +1,11 @@
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\bin\Debug\loteria.exe.config
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\bin\Debug\loteria.exe
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\bin\Debug\loteria.pdb
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.csproj.AssemblyReference.cache
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.csproj.SuggestedBindingRedirects.cache
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.Form1.resources
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.Properties.Resources.resources
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.csproj.GenerateResource.cache
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.csproj.CoreCompileInputs.cache
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.exe
+C:\Users\epsi.ESTUDIANTE\source\repos\loteria\loteria\obj\Debug\loteria.pdb
